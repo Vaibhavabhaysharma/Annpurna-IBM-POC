@@ -1,0 +1,13 @@
+C:\Users\Vaibhav\source\repos\ConsoleApp-Prime number\bin\Debug\netcoreapp3.1\ConsoleApp-Prime number.exe
+C:\Users\Vaibhav\source\repos\ConsoleApp-Prime number\bin\Debug\netcoreapp3.1\ConsoleApp-Prime number.deps.json
+C:\Users\Vaibhav\source\repos\ConsoleApp-Prime number\bin\Debug\netcoreapp3.1\ConsoleApp-Prime number.runtimeconfig.json
+C:\Users\Vaibhav\source\repos\ConsoleApp-Prime number\bin\Debug\netcoreapp3.1\ConsoleApp-Prime number.runtimeconfig.dev.json
+C:\Users\Vaibhav\source\repos\ConsoleApp-Prime number\bin\Debug\netcoreapp3.1\ConsoleApp-Prime number.dll
+C:\Users\Vaibhav\source\repos\ConsoleApp-Prime number\bin\Debug\netcoreapp3.1\ConsoleApp-Prime number.pdb
+C:\Users\Vaibhav\source\repos\ConsoleApp-Prime number\obj\Debug\netcoreapp3.1\ConsoleApp-Prime number.csprojAssemblyReference.cache
+C:\Users\Vaibhav\source\repos\ConsoleApp-Prime number\obj\Debug\netcoreapp3.1\ConsoleApp-Prime number.AssemblyInfoInputs.cache
+C:\Users\Vaibhav\source\repos\ConsoleApp-Prime number\obj\Debug\netcoreapp3.1\ConsoleApp-Prime number.AssemblyInfo.cs
+C:\Users\Vaibhav\source\repos\ConsoleApp-Prime number\obj\Debug\netcoreapp3.1\ConsoleApp-Prime number.csproj.CoreCompileInputs.cache
+C:\Users\Vaibhav\source\repos\ConsoleApp-Prime number\obj\Debug\netcoreapp3.1\ConsoleApp-Prime number.dll
+C:\Users\Vaibhav\source\repos\ConsoleApp-Prime number\obj\Debug\netcoreapp3.1\ConsoleApp-Prime number.pdb
+C:\Users\Vaibhav\source\repos\ConsoleApp-Prime number\obj\Debug\netcoreapp3.1\ConsoleApp-Prime number.genruntimeconfig.cache

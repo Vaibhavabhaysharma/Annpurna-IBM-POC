@@ -1,0 +1,13 @@
+C:\Users\Vaibhav\source\repos\ConsoleApp-Bigger-Number\bin\Debug\netcoreapp3.1\ConsoleApp-Bigger-Number.exe
+C:\Users\Vaibhav\source\repos\ConsoleApp-Bigger-Number\bin\Debug\netcoreapp3.1\ConsoleApp-Bigger-Number.deps.json
+C:\Users\Vaibhav\source\repos\ConsoleApp-Bigger-Number\bin\Debug\netcoreapp3.1\ConsoleApp-Bigger-Number.runtimeconfig.json
+C:\Users\Vaibhav\source\repos\ConsoleApp-Bigger-Number\bin\Debug\netcoreapp3.1\ConsoleApp-Bigger-Number.runtimeconfig.dev.json
+C:\Users\Vaibhav\source\repos\ConsoleApp-Bigger-Number\bin\Debug\netcoreapp3.1\ConsoleApp-Bigger-Number.dll
+C:\Users\Vaibhav\source\repos\ConsoleApp-Bigger-Number\bin\Debug\netcoreapp3.1\ConsoleApp-Bigger-Number.pdb
+C:\Users\Vaibhav\source\repos\ConsoleApp-Bigger-Number\obj\Debug\netcoreapp3.1\ConsoleApp-Bigger-Number.csprojAssemblyReference.cache
+C:\Users\Vaibhav\source\repos\ConsoleApp-Bigger-Number\obj\Debug\netcoreapp3.1\ConsoleApp-Bigger-Number.AssemblyInfoInputs.cache
+C:\Users\Vaibhav\source\repos\ConsoleApp-Bigger-Number\obj\Debug\netcoreapp3.1\ConsoleApp-Bigger-Number.AssemblyInfo.cs
+C:\Users\Vaibhav\source\repos\ConsoleApp-Bigger-Number\obj\Debug\netcoreapp3.1\ConsoleApp-Bigger-Number.csproj.CoreCompileInputs.cache
+C:\Users\Vaibhav\source\repos\ConsoleApp-Bigger-Number\obj\Debug\netcoreapp3.1\ConsoleApp-Bigger-Number.dll
+C:\Users\Vaibhav\source\repos\ConsoleApp-Bigger-Number\obj\Debug\netcoreapp3.1\ConsoleApp-Bigger-Number.pdb
+C:\Users\Vaibhav\source\repos\ConsoleApp-Bigger-Number\obj\Debug\netcoreapp3.1\ConsoleApp-Bigger-Number.genruntimeconfig.cache
